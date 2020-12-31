@@ -6,6 +6,7 @@ Simply, your function should return an integer/float(say 'i') ```closest or equa
 
 Example : 
 -----------
+```
 1)  INPUT :
       pizzas = [400,450,600,500]
       toppings = [50,70,110,30]
@@ -14,6 +15,9 @@ Example :
       760, 
       because of two possible cases : (a) pizza(600) + topping(110 + 50) = 760 
                                       (b) pizza(500) + topping(50 + 70 + 30 + 110) = 760
+ ```
+ ```
+                                      
 2)  INPUT :
       pizzas = [400,450,600,500]
       toppings = [50,70,110,30]
@@ -21,4 +25,4 @@ Example :
     OUTPUT : 
       600, 
       because 600 is the prize of the pizza itself so he can spend all the cash.
-
+```
